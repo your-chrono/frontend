@@ -1,0 +1,5 @@
+export const ROOT_ROUTE = '/'
+export const LOG_IN_ROUTE = 'login'
+export const LOG_OUT_ROUTE = 'logout'
+export const YA_TOKEN = 'ya-token'
+export const HOME_ROUTE = 'home'

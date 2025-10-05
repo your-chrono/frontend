@@ -1,0 +1,6 @@
+{
+  "queries": {
+    "53418e2856c1f934602f1d116e0dc250e5ae3012157b42fee6e46aec8ea87879": "mutation login($data: LoginInput!) {\n  login(data: $data) {\n    token\n  }\n}"
+  },
+  "version": "c2c3502d16cf2249c44a13b6f0460dae23aa2963f3931a252e10dff5720c0871"
+}
